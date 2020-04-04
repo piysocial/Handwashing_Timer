@@ -25,4 +25,4 @@ So, we've designed a product that is based on Ultrasonic Sensor and it displays 
 
 ## Working Video
 
-[![h3](https://badgen.net/badge/View/Hand-WashingTimer/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
+[![h3](https://badgen.net/badge/View/Hand-WashingTimer/red)](https://youtu.be/lwF5Dmkdj6s)
